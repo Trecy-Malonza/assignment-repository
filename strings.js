@@ -37,7 +37,7 @@ console.log({index:string.indexOf(`sitting`)});
 //convert the string into the specified format:1.Uppercase: "Wonderful"2.LowerCase:"amazing","UndERneath"3.Title case "A wonderful world"
 
 let name1 = "Wonderful" ;
-let name2 = "amazing";
+let name2 = "amazing" ;
 let name3 = "UndERneath";
 let name4 = "A wonderful world";
 console.log(name1.toUpperCase());
